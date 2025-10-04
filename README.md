@@ -63,3 +63,11 @@ class PyScannerReceiver(static_proxy(BroadcastReceiver, package="com.example.sca
             # Convert Java byte[] -> Python bytes
             PyScannerReceiver.last_scan = bytes(jarray(jbyte)(b))
 ```
+
+How to proceed:
+
+Follow the beeware tutorial to create a new Android app until step 5. (https://docs.beeware.org/en/latest/tutorial/tutorial-0.html)
+
+Now try to add intent receiving code.
+
+
