@@ -70,4 +70,11 @@ Follow the beeware tutorial to create a new Android app until step 5. (https://d
 
 Now try to add intent receiving code.
 
+---------
+
+Hints: 
+
+Look at https://toga.readthedocs.io/en/stable/reference/platforms/android.html
+for an example to make a call via Intent
+and https://developer.android.com/reference/android/content/Intent for Java decriptions
 
