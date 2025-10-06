@@ -70,11 +70,12 @@ Follow the beeware tutorial to create a new Android app until step 5. (https://d
 
 Now try to add intent receiving code.
 
+It's probably easier to try with a string value like EXTRA_EVENT_STRING_VALUE to get things working first.
 ---------
 
 Hints: 
 
 Look at https://toga.readthedocs.io/en/stable/reference/platforms/android.html
 for an example to make a call via Intent
-and https://developer.android.com/reference/android/content/Intent for Java decriptions
+and https://developer.android.com/reference/android/content/Intent for Java descriptions
 
